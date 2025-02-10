@@ -1,0 +1,13 @@
+'''
+Task 1
+By Sienna Curtis
+Date: Tuesday 04.02.2025
+Version 1
+'''
+print("Hola people")
+print("My name is: Sienna")
+name = input("what is your name?")
+print("Hello", name)
+age = int(input("How old are you " + name))
+next_year = age + 1
+print("next year you will be", next_year,"years old")
